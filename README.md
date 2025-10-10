@@ -28,10 +28,7 @@ I am passionate about creating clean, user-friendly applications that make a dif
 ## Projects
 Check out my work ⬇️
 
-
-## Fun Animations
 ![Coding Girl](https://media.tenor.com/images/2332171326726785246.gif)
-
 
 ## GitHub Stats
 ![Britney's GitHub stats](https://github-readme-stats.vercel.app/api?username=Britney-Brown&show_icons=true&theme=radical)
