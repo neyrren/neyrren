@@ -30,9 +30,6 @@ Check out my work ⬇️
 
 ![Coding Girl](https://media.tenor.com/images/2332171326726785246.gif)
 
-## GitHub Stats
-![Britney's GitHub stats](https://github-readme-stats.vercel.app/api?username=Britney-Brown&show_icons=true&theme=radical)
-
 
 
 
