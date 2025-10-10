@@ -28,8 +28,8 @@ I am passionate about creating clean, user-friendly applications that make a dif
 ## Projects
 Check out my work ⬇️
 
-## Fun Animations
-![Coding Animation]([https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-girl-gif-2332171326726785246&psig=AOvVaw3dxOgJrJGPl9xVyLAuTLuO&ust=1760192887991000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCr1NPrmZADFQAAAAAdAAAAABAK))
+
+![Coding Animation](https://media.tenor.com/images/2332171326726785246.gif)
 
 ## GitHub Stats
 ![Britney's GitHub stats](https://github-readme-stats.vercel.app/api?username=Britney-Brown&show_icons=true&theme=radical)
