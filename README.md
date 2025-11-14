@@ -57,7 +57,7 @@ I enjoy creating clean, user-friendly applications that make a difference. 💛
 
 ---
 
-## 👩‍💻 Coding Animation
+## 👩‍💻 
 
 <div align="center">
 
@@ -67,13 +67,6 @@ I enjoy creating clean, user-friendly applications that make a difference. 💛
 
 ---
 
-## 🌈 Aesthetic Animated Banner
-
-<div align="center">
-
-<img src="https://github.com/Akshay090/svg-banners/blob/main/banners/server_down.svg" width="600" />
-
-</div>
 
 ---
 
@@ -85,7 +78,7 @@ I enjoy creating clean, user-friendly applications that make a difference. 💛
 
 ---
 
-## 🌀 Animated Stats & Fun Stuff
+## 🌀 
 
 <div align="center">
 
