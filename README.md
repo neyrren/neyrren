@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=F7A51D&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Neyrren+👋;Web+Developer+%26+Tech+Enthusiast;Passionate+About+Building+Cool+Stuff;Always+Learning+%F0%9F%8E%93" />
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=F7A51D&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Britney+👋;Web+Developer+%26+Tech+Enthusiast;Passionate+About+Building+Cool+Stuff;Always+Learning+%F0%9F%8E%93" />
 
 </div>
 
-# Hi, I'm **Neyrren** 👋** 👋
+# Hi, I'm **Britney** 👋** 👋
 
 [![committers.top badge](https://user-badge.committers.top/tanzania/neyrren.svg)](https://user-badge.committers.top/tanzania/neyrren)
 
@@ -67,8 +67,6 @@ I enjoy creating clean, user-friendly applications that make a difference. 💛
 
 ---
 
-
----
 
 <div align="center">
 
