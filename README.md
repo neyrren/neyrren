@@ -1,4 +1,12 @@
-# Hi, I'm **Neyrren** 👋
+<!-- Typing SVG Banner -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=F7A51D&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Neyrren+👋;Web+Developer+%26+Tech+Enthusiast;Passionate+About+Building+Cool+Stuff;Always+Learning+%F0%9F%8E%93" />
+
+</div>
+
+# Hi, I'm **Neyrren** 👋** 👋
 
 [![committers.top badge](https://user-badge.committers.top/tanzania/neyrren.svg)](https://user-badge.committers.top/tanzania/neyrren)
 
@@ -17,29 +25,63 @@ I enjoy creating clean, user-friendly applications that make a difference. 💛
 
 ### 🎨 **Frontend Development**
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge\&logo=vuedotjs\&logoColor=white)
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue" height="65" />
+
+</div>
 
 ### 🔧 **Backend Development**
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=django,flask,express" height="65" />
+
+</div>
 
 ### 🗄️ **Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" height="65" />
+
+</div>
 
 ### ☁️ **Backend as a Service (BaaS)**
 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=supabase,firebase" height="65" />
+
+</div>
+
+---
+
+## 👩‍💻 Coding Animation
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXcyZXRvcmg1eGVsaGF0MzlyeDN3dnBpeG5mdWJwejljeHFseGo0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="380" />
+
+</div>
+
+---
+
+## 🌈 Aesthetic Animated Banner
+
+<div align="center">
+
+<img src="https://github.com/Akshay090/svg-banners/blob/main/banners/server_down.svg" width="600" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380" />
+
+</div>
 
 ---
 
