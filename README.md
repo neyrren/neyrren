@@ -19,6 +19,12 @@ I am a **web developer** aspiring to become a **full software developer** solvin
 I love building meaningful projects, learning new technologies, and improving both frontend and backend development skills.
 I enjoy creating clean, user-friendly applications that make a difference. 💛
 
+<div align="center">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380" />
+
+</div>
+
 ---
 
 ## 🚀 Skills & Technologies
@@ -57,40 +63,6 @@ I enjoy creating clean, user-friendly applications that make a difference. 💛
 
 ---
 
-## 👩‍💻 
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXcyZXRvcmg1eGVsaGF0MzlyeDN3dnBpeG5mdWJwejljeHFseGo0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="380" />
-
-</div>
-
----
-
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380" />
-
-</div>
-
----
-
-## 🌀 
-
-<div align="center">
-
-<!-- GitHub Streak -->
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=neyrren&theme=default&hide_border=true" />
-
-<!-- GitHub Stats -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=neyrren&show_icons=true&hide_border=true" />
-
-<!-- Top Languages -->
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyrren&layout=compact&hide_border=true" />
 
 <!-- Snake Animation -->
 
